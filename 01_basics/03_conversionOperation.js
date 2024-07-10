@@ -14,3 +14,10 @@ console.log(valueInNumber);
 //1 => true ; 0 => false
 // "" => false
 // "prakhar" => true
+
+/* OPERATIONS */
+
+let str1 = "hello"
+let str2 = "prakhar"
+let str3 = str1 + str2;
+console.log(str3);
